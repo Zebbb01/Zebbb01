@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,20:0f2b2b,50:1a5c4c,80:0f2b2b,100:0d1117&height=200&section=header&text=Gerald%20Villaceran&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 
 <!-- TYPING SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1200&color=58D5C7&center=true&vCenter=true&repeat=true&width=600&height=50&lines=AI+Prompt+Engineer+%7C+AI+Agent+Developer;I+don't+just+build,+I+scale+digital+products;Leveraging+AI+to+build+exactly+what+clients+want;Full-Stack+Web+Developer+%7C+Philippines" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1200&color=58D5C7&center=true&vCenter=true&repeat=true&width=600&height=50&lines=AI+Prompt+Engineer+%7C+Intelligent+Automation;I+don't+just+build,+I+scale+digital+products;Leveraging+AI+to+build+exactly+what+clients+want;Full-Stack+Web+Developer+%7C+Philippines" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -16,7 +16,7 @@
 <br/><br/>
 
 ### ✦ AI-First Architect and Growth Systems Builder
-*Specializing in Prompt Engineering and building intelligent AI Agents. I engineer scalable systems designed for massive growth, leveraging the power of AI to deliver exactly what clients envision without merely writing code.*
+*Specializing in Prompt Engineering and intelligent automation. I engineer scalable systems designed for massive growth, leveraging the power of AI to deliver exactly what clients envision without merely writing code.*
 
 <br/>
 
