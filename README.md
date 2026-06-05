@@ -8,19 +8,19 @@
 
 <br/>
 
-<a href="https://portfolio-five-ruddy-49.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-58D5C7?style=flat-square&logo=vercel&logoColor=0d1117" alt="Portfolio"/></a>&nbsp;
-<a href="https://www.linkedin.com/in/gerald-villaceran-798983325" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
-<a href="mailto:geraldvillaceran01@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<a href="https://rundzee.ph" target="_blank"><img src="https://img.shields.io/badge/Rundzee.ph-f26631?style=flat-square&logo=googlechrome&logoColor=white" alt="Rundzee"/></a>
+<a href="https://portfolio-five-ruddy-49.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-58D5C7?style=for-the-badge&logo=vercel&logoColor=0d1117" alt="Portfolio"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/gerald-villaceran-798983325" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+<a href="mailto:geraldvillaceran01@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="https://rundzee.ph" target="_blank"><img src="https://img.shields.io/badge/Rundzee.ph-F26631?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Rundzee"/></a>
 
 <br/><br/>
 
-### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/microchip.svg" width="20" height="20" alt="AI Icon"/> **AI-First Architect and Growth Systems Builder**
+### ✦ AI-First Architect and Growth Systems Builder
 *Specializing in Prompt Engineering and building intelligent AI Agents. I engineer scalable systems designed for massive growth, leveraging the power of AI to deliver exactly what clients envision without merely writing code.*
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Zebbb01&label=Profile%20Views&color=1a5c4c&style=flat-square" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Zebbb01&label=Profile%20Views&color=1a5c4c&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
@@ -39,35 +39,35 @@
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,sass&theme=dark" />
 
-<img src="https://img.shields.io/badge/Framer_Motion-0d1117?style=flat-square&logo=framer&logoColor=58D5C7" />&nbsp;
-<img src="https://img.shields.io/badge/GSAP-0d1117?style=flat-square&logo=greensock&logoColor=88CE02" />&nbsp;
-<img src="https://img.shields.io/badge/ShadCN_UI-0d1117?style=flat-square&logo=shadcnui&logoColor=ffffff" />&nbsp;
-<img src="https://img.shields.io/badge/React_Native-0d1117?style=flat-square&logo=react&logoColor=61DAFB" />&nbsp;
-<img src="https://img.shields.io/badge/Expo-0d1117?style=flat-square&logo=expo&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Framer_Motion-0d1117?style=for-the-badge&logo=framer&logoColor=58D5C7" />&nbsp;
+<img src="https://img.shields.io/badge/GSAP-0d1117?style=for-the-badge&logo=greensock&logoColor=88CE02" />&nbsp;
+<img src="https://img.shields.io/badge/ShadCN_UI-0d1117?style=for-the-badge&logo=shadcnui&logoColor=ffffff" />&nbsp;
+<img src="https://img.shields.io/badge/React_Native-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;
+<img src="https://img.shields.io/badge/Expo-0d1117?style=for-the-badge&logo=expo&logoColor=ffffff" />
 
 #### backend and databases
 
 <img src="https://skillicons.dev/icons?i=nodejs,laravel,prisma,supabase,postgres,mysql,mongodb,firebase&theme=dark" />
 
-<img src="https://img.shields.io/badge/tRPC-0d1117?style=flat-square&logo=trpc&logoColor=2596BE" />&nbsp;
-<img src="https://img.shields.io/badge/Drizzle-0d1117?style=flat-square&logo=drizzle&logoColor=C5F74F" />&nbsp;
-<img src="https://img.shields.io/badge/Zod-0d1117?style=flat-square&logo=zod&logoColor=3E67B1" />
+<img src="https://img.shields.io/badge/tRPC-0d1117?style=for-the-badge&logo=trpc&logoColor=2596BE" />&nbsp;
+<img src="https://img.shields.io/badge/Drizzle-0d1117?style=for-the-badge&logo=drizzle&logoColor=C5F74F" />&nbsp;
+<img src="https://img.shields.io/badge/Zod-0d1117?style=for-the-badge&logo=zod&logoColor=3E67B1" />
 
 #### ai and ml
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" />
 
-<img src="https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=langchain&logoColor=ffffff" />&nbsp;
-<img src="https://img.shields.io/badge/YOLOv8-0d1117?style=flat-square&logoColor=FF0000" />&nbsp;
-<img src="https://img.shields.io/badge/n8n-0d1117?style=flat-square&logo=n8n&logoColor=EA4B71" />&nbsp;
-<img src="https://img.shields.io/badge/Make-0d1117?style=flat-square&logo=make&logoColor=6D00CC" />
+<img src="https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=langchain&logoColor=ffffff" />&nbsp;
+<img src="https://img.shields.io/badge/YOLOv8-0d1117?style=for-the-badge&logoColor=FF0000" />&nbsp;
+<img src="https://img.shields.io/badge/n8n-0d1117?style=for-the-badge&logo=n8n&logoColor=EA4B71" />&nbsp;
+<img src="https://img.shields.io/badge/Make-0d1117?style=for-the-badge&logo=make&logoColor=6D00CC" />
 
 #### devops and tools
 
 <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,figma,postman&theme=dark" />
 
-<img src="https://img.shields.io/badge/Clerk-0d1117?style=flat-square&logo=clerk&logoColor=6C47FF" />&nbsp;
-<img src="https://img.shields.io/badge/Stripe-0d1117?style=flat-square&logo=stripe&logoColor=635BFF" />
+<img src="https://img.shields.io/badge/Clerk-0d1117?style=for-the-badge&logo=clerk&logoColor=6C47FF" />&nbsp;
+<img src="https://img.shields.io/badge/Stripe-0d1117?style=for-the-badge&logo=stripe&logoColor=635BFF" />
 
 </div>
 
@@ -93,10 +93,6 @@
 <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Zebbb01&theme=dark&hide_border=true&background=0d1117&ring=58D5C7&fire=f97316&currStreakLabel=58D5C7&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=6b7280" />
 <img src="https://streak-stats.demolab.com?user=Zebbb01&theme=dark&hide_border=true&background=0d1117&ring=58D5C7&fire=f97316&currStreakLabel=58D5C7&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=6b7280" alt="GitHub Streak"/>
 </picture>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zebbb01&theme=react-dark&hide_border=true&bg_color=0d1117&color=c9d1d9&line=58D5C7&point=f97316&area=true&area_color=1a5c4c" alt="Activity Graph" width="100%"/>
 
 </div>
 
@@ -157,9 +153,9 @@
 
 <br/><br/>
 
-<a href="https://rundzee.ph" target="_blank"><img src="https://img.shields.io/badge/Rundzee.ph-f26631?style=flat-square&logo=googlechrome&logoColor=white" alt="Rundzee"/></a>&nbsp;
-<a href="https://portfolio-five-ruddy-49.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-58D5C7?style=flat-square&logo=vercel&logoColor=0d1117" alt="Portfolio"/></a>&nbsp;
-<a href="mailto:geraldvillaceran01@gmail.com"><img src="https://img.shields.io/badge/Hire_Me-1a5c4c?style=flat-square&logo=minutemailer&logoColor=ffffff" alt="Hire Me"/></a>
+<a href="https://rundzee.ph" target="_blank"><img src="https://img.shields.io/badge/Rundzee.ph-F26631?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Rundzee"/></a>&nbsp;
+<a href="https://portfolio-five-ruddy-49.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-58D5C7?style=for-the-badge&logo=vercel&logoColor=0d1117" alt="Portfolio"/></a>&nbsp;
+<a href="mailto:geraldvillaceran01@gmail.com"><img src="https://img.shields.io/badge/Hire_Me-1a5c4c?style=for-the-badge&logo=minutemailer&logoColor=ffffff" alt="Hire Me"/></a>
 
 </div>
 
