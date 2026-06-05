@@ -8,19 +8,19 @@
 
 <br/>
 
-<a href="https://portfolio-five-ruddy-49.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-58D5C7?style=for-the-badge&logo=vercel&logoColor=0d1117" alt="Portfolio"/></a>&nbsp;
-<a href="https://www.linkedin.com/in/gerald-villaceran-798983325" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
-<a href="mailto:geraldvillaceran01@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<a href="https://rundzee.ph" target="_blank"><img src="https://img.shields.io/badge/Rundzee.ph-0EAE4E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Rundzee"/></a>
+<a href="https://portfolio-five-ruddy-49.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-58D5C7?style=flat-square&logo=vercel&logoColor=0d1117" alt="Portfolio"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/gerald-villaceran-798983325" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+<a href="mailto:geraldvillaceran01@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="https://rundzee.ph" target="_blank"><img src="https://img.shields.io/badge/Rundzee.ph-f26631?style=flat-square&logo=googlechrome&logoColor=white" alt="Rundzee"/></a>
 
 <br/><br/>
 
-### 🚀 **AI-First Architect & Growth Systems Builder**
-*Specializing in **Prompt Engineering** and building intelligent **AI Agents**. I don't just write code—I engineer scalable systems designed for massive growth, leveraging the power of AI to deliver exactly what clients envision.*
+### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/microchip.svg" width="20" height="20" alt="AI Icon"/> **AI-First Architect and Growth Systems Builder**
+*Specializing in Prompt Engineering and building intelligent AI Agents. I engineer scalable systems designed for massive growth, leveraging the power of AI to deliver exactly what clients envision without merely writing code.*
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Zebbb01&label=Profile%20Views&color=1a5c4c&style=flat" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Zebbb01&label=Profile%20Views&color=1a5c4c&style=flat-square" alt="Profile Views"/>
 
 </div>
 
@@ -150,15 +150,6 @@
 
 ---
 
-<!-- TROPHIES -->
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Zebbb01&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
-
-</div>
-
----
-
 <!-- FOOTER -->
 <div align="center">
 
@@ -166,9 +157,9 @@
 
 <br/><br/>
 
-<a href="https://rundzee.ph" target="_blank"><img src="https://img.shields.io/badge/Rundzee.ph-0EAE4E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Rundzee"/></a>&nbsp;
-<a href="https://portfolio-five-ruddy-49.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-58D5C7?style=for-the-badge&logo=vercel&logoColor=0d1117" alt="Portfolio"/></a>&nbsp;
-<a href="mailto:geraldvillaceran01@gmail.com"><img src="https://img.shields.io/badge/Hire_Me-1a5c4c?style=for-the-badge&logo=minutemailer&logoColor=ffffff" alt="Hire Me"/></a>
+<a href="https://rundzee.ph" target="_blank"><img src="https://img.shields.io/badge/Rundzee.ph-f26631?style=flat-square&logo=googlechrome&logoColor=white" alt="Rundzee"/></a>&nbsp;
+<a href="https://portfolio-five-ruddy-49.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-58D5C7?style=flat-square&logo=vercel&logoColor=0d1117" alt="Portfolio"/></a>&nbsp;
+<a href="mailto:geraldvillaceran01@gmail.com"><img src="https://img.shields.io/badge/Hire_Me-1a5c4c?style=flat-square&logo=minutemailer&logoColor=ffffff" alt="Hire Me"/></a>
 
 </div>
 
