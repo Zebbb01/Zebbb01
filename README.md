@@ -78,55 +78,17 @@
 
 ### GitHub Stats
 
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Zebbb01&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58D5C7&text_color=c9d1d9&icon_color=1a5c4c&include_all_commits=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Zebbb01&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58D5C7&text_color=c9d1d9&icon_color=1a5c4c&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-</picture>&nbsp;&nbsp;
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Zebbb01&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58D5C7&text_color=c9d1d9&langs_count=8" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zebbb01&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58D5C7&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
-</picture>
-
-<br/><br/>
-
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Zebbb01&theme=dark&hide_border=true&background=0d1117&ring=58D5C7&fire=f97316&currStreakLabel=58D5C7&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=6b7280" />
-<img src="https://streak-stats.demolab.com?user=Zebbb01&theme=dark&hide_border=true&background=0d1117&ring=58D5C7&fire=f97316&currStreakLabel=58D5C7&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=6b7280" alt="GitHub Streak"/>
-</picture>
-
-</div>
-
----
-
-<!-- PINNED REPOS -->
-<div align="center">
-
-### Popular Repositories
-
-<a href="https://github.com/Zebbb01/CashFlo">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Zebbb01&repo=CashFlo&theme=dark&hide_border=true&bg_color=0d1117&title_color=58D5C7&text_color=c9d1d9&icon_color=1a5c4c" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Zebbb01&repo=CashFlo&theme=dark&hide_border=true&bg_color=0d1117&title_color=58D5C7&text_color=c9d1d9&icon_color=1a5c4c" alt="CashFlo"/>
-</picture>
-</a>&nbsp;&nbsp;
-<a href="https://github.com/Zebbb01/Agright-NextJs">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Zebbb01&repo=Agright-NextJs&theme=dark&hide_border=true&bg_color=0d1117&title_color=58D5C7&text_color=c9d1d9&icon_color=1a5c4c" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Zebbb01&repo=Agright-NextJs&theme=dark&hide_border=true&bg_color=0d1117&title_color=58D5C7&text_color=c9d1d9&icon_color=1a5c4c" alt="AGRIGHT"/>
-</picture>
+<a href="https://github.com/Zebbb01">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Zebbb01&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58D5C7&text_color=c9d1d9&icon_color=1a5c4c&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+</a>
+<a href="https://github.com/Zebbb01">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zebbb01&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58D5C7&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
 </a>
 
-<a href="https://github.com/Zebbb01/ai-chatbot-arnold">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Zebbb01&repo=ai-chatbot-arnold&theme=dark&hide_border=true&bg_color=0d1117&title_color=58D5C7&text_color=c9d1d9&icon_color=1a5c4c" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Zebbb01&repo=ai-chatbot-arnold&theme=dark&hide_border=true&bg_color=0d1117&title_color=58D5C7&text_color=c9d1d9&icon_color=1a5c4c" alt="Arnold"/>
-</picture>
-</a>&nbsp;&nbsp;
-<a href="https://github.com/Zebbb01/Portfolio">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Zebbb01&repo=Portfolio&theme=dark&hide_border=true&bg_color=0d1117&title_color=58D5C7&text_color=c9d1d9&icon_color=1a5c4c" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Zebbb01&repo=Portfolio&theme=dark&hide_border=true&bg_color=0d1117&title_color=58D5C7&text_color=c9d1d9&icon_color=1a5c4c" alt="Portfolio"/>
-</picture>
+<br/>
+
+<a href="https://github.com/Zebbb01">
+  <img src="https://streak-stats.demolab.com?user=Zebbb01&theme=dark&hide_border=true&background=0d1117&ring=58D5C7&fire=f97316&currStreakLabel=58D5C7&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=6b7280" alt="GitHub Streak"/>
 </a>
 
 </div>
