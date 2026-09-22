@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 264" width="1200" height="264" role="img" aria-label="Currently building ProfitView Accounting — 24 modules live, 158K lines of TypeScript, 92 test suites in CI, release v0.66">
+  <title>Currently building — ProfitView Accounting</title>
+  <defs>
+    <linearGradient id="edge" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#D4AF37"/>
+      <stop offset="1" stop-color="#D4AF37" stop-opacity=".15"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="264" fill="#0E0E0E"/>
+  <rect x=".5" y=".5" width="1199" height="263" fill="none" stroke="#1F1F1F"/>
+  <rect x="0" y="0" width="2" height="264" fill="url(#edge)"/>
+
+  <circle cx="58" cy="56" r="4" fill="#D4AF37">
+    <animate attributeName="opacity" values="1;.2;1" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="58" cy="56" r="4" fill="none" stroke="#D4AF37" stroke-opacity=".6">
+    <animate attributeName="r" values="4;13" dur="2.4s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-opacity" values=".6;0" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+
+  <g font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace">
+    <text x="78" y="61" font-size="12" letter-spacing="5" fill="#A09882">CURRENTLY BUILDING</text>
+    <text x="1144" y="61" font-size="12" letter-spacing="4" fill="#6B6355" text-anchor="end">MAR 2026 &#8212; PRESENT</text>
+  </g>
+
+  <g font-family="'Outfit','Inter',ui-sans-serif,system-ui,-apple-system,'Segoe UI',Roboto,sans-serif">
+    <text x="56" y="114" font-size="30" font-weight="500" letter-spacing=".5" fill="#F5F0E8">ProfitView Accounting</text>
+    <text x="56" y="146" font-size="14.5" fill="#A09882">Multi-tenant, BIR-compliant accounting platform for Philippine businesses. Sole engineer &#8212; architecture, compliance, AI layer, tests.</text>
+  </g>
+
+  <rect x="56" y="180" width="1088" height="1" fill="#1F1F1F"/>
+
+  <g font-family="'Outfit','Inter',ui-sans-serif,system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="27" font-weight="500" fill="#D4AF37">
+    <text x="56" y="224">24</text>
+    <text x="328" y="224">158K</text>
+    <text x="600" y="224">92</text>
+    <text x="872" y="224">v0.66</text>
+  </g>
+  <g font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace" font-size="11" letter-spacing="3" fill="#6B6355">
+    <text x="56" y="246">MODULES LIVE</text>
+    <text x="328" y="246">LINES OF TYPESCRIPT</text>
+    <text x="600" y="246">TEST SUITES IN CI</text>
+    <text x="872" y="246">WEEKLY RELEASE</text>
+  </g>
+  <g fill="#1F1F1F">
+    <rect x="296" y="198" width="1" height="44"/>
+    <rect x="568" y="198" width="1" height="44"/>
+    <rect x="840" y="198" width="1" height="44"/>
+  </g>
+</svg>
