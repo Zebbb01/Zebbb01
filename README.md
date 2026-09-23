@@ -78,7 +78,7 @@ The rest of the toolchain is deliberately cheap: Supabase, Vercel and GitHub Act
 <br/>
 
 **Frontend** — `Next.js` `React` `React Native` `TypeScript` `Tailwind CSS` `Framer Motion` `Radix UI`<br/>
-**Backend & infra** — `Supabase` `PostgreSQL` `Row Level Security` `Prisma` `Node.js` `Edge Functions` `Vercel`<br/>
+**Backend & infra** — `Supabase` `PostgreSQL` `Row Level Security` `REST APIs` `Webhooks` `Prisma` `Node.js` `Edge Functions` `Vercel`<br/>
 **Mobile** — `React Native` `Expo` `Expo Router` `PWA` `Offline-first`<br/>
 **Payments** — `PayMongo` `GCash` `Maya` `GrabPay` `Stripe` `Subscriptions`<br/>
 **AI & automation** — `Claude Code` `Anthropic SDK` `OpenAI` `Gemini` `n8n` `Make` `OCR`<br/>
