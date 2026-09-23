@@ -14,7 +14,9 @@
 
 <br/>
 
-I build production platforms that carry real money and real operations — multi-tenant SaaS, cross-platform mobile apps, and the automation underneath them. Currently full-time on the web platforms and region-scoped admin portals of an on-demand delivery operation, while shipping my own accounting product on a weekly release cadence.
+I build production platforms that carry real money and real operations. Right now that means a multi-tenant accounting SaaS I own end to end, shipped every week for six months straight, and the web platforms and admin portals behind an on-demand delivery operation — plus the customer, merchant and rider apps that talk to them.
+
+Money paths run on `Decimal.js`, never floats. Tenant isolation is a PostgreSQL RLS policy, not an `if` statement. 92 Vitest and Playwright suites run in CI before anything ships.
 
 <br/>
 
@@ -28,36 +30,77 @@ I build production platforms that carry real money and real operations — multi
 
 ## Selected work
 
-| Project | |
-| :-- | :-- |
-| **ProfitView Accounting**<br/><sub>Enterprise SaaS · [live](https://profit-view-swart.vercel.app/) · [case study](https://portfolio-five-ruddy-49.vercel.app/projects/profitview)</sub> | Double-entry ledger with the Philippine compliance layer built in, not bolted on — VAT across taxable, zero-rated and exempt, expanded withholding tax, SLSP, BIR Books of Accounts. Tenant isolation enforced by PostgreSQL RLS, every money path on Decimal.js, 92 suites in CI.<br/><sub>`Next.js 15` `Supabase` `PostgreSQL RLS` `Anthropic SDK` `Decimal.js` `Playwright` `PayMongo`</sub> |
-| **Body Tracker**<br/><sub>AI-powered PWA · [live](https://body-tracker-iota.vercel.app/) · [code](https://github.com/Zebbb01/Workout-Tracker) · [case study](https://portfolio-five-ruddy-49.vercel.app/projects/body-tracker)</sub> | Photograph the meal, skip the form — a vision model estimates macros and the user corrects them. Offline-first: writes land in IndexedDB and sync when a connection returns.<br/><sub>`Next.js 16` `Supabase` `PWA` `IndexedDB` `Service Workers`</sub> |
-| **OSCA Civic Platform**<br/><sub>Government · [code](https://github.com/Zebbb01/OSCA)</sub> | Senior citizen affairs management for a local government office — records, benefits and reporting for staff who were running the whole thing on paper.<br/><sub>`Next.js` `Prisma` `PostgreSQL` `NextAuth` `TypeScript`</sub> |
-| **Business Automation**<br/><sub>Workflow systems · [case study](https://portfolio-five-ruddy-49.vercel.app/projects/n8n-automation)</sub> | Multi-step pipelines across CRMs, email, payment gateways and internal tools. Event-driven where latency matters, scheduled where it does not, and loud when a run fails.<br/><sub>`n8n` `Make` `Webhooks` `GoHighLevel` `OCR`</sub> |
-| **Marketing Systems**<br/><sub>Sales funnels · [case study](https://portfolio-five-ruddy-49.vercel.app/projects/ghl-website)</sub> | Pages structured around one decision, with motion that directs attention, and capture wired straight into automated follow-up.<br/><sub>`GoHighLevel` `CRM Integration` `JavaScript`</sub> |
+**ProfitView Accounting** — a double-entry ledger with the Philippine compliance layer built in rather than bolted on: VAT across taxable, zero-rated and exempt, expanded withholding tax, SLSP, BIR Books of Accounts.<br/>
+<sub>[live](https://profit-view-swart.vercel.app/) · [case study](https://portfolio-five-ruddy-49.vercel.app/projects/profitview) · `Next.js 15` `Supabase` `PostgreSQL RLS` `Anthropic SDK` `Decimal.js` `Playwright`</sub>
+
+**Body Tracker** — photograph the meal, skip the form. A vision model estimates the macros, the user corrects them, and every write lands in IndexedDB first so the app works with no signal.<br/>
+<sub>[live](https://body-tracker-iota.vercel.app/) · [code](https://github.com/Zebbb01/Workout-Tracker) · [case study](https://portfolio-five-ruddy-49.vercel.app/projects/body-tracker) · `Next.js 16` `Supabase` `PWA` `IndexedDB`</sub>
+
+**OSCA Civic Platform** — senior citizen affairs management for a local government office that was running records, benefits and reporting on paper.<br/>
+<sub>[code](https://github.com/Zebbb01/OSCA) · `Next.js` `Prisma` `PostgreSQL` `NextAuth`</sub>
+
+**Business automation** — multi-step pipelines across CRMs, email, payment gateways and internal tools. Event-driven where latency matters, scheduled where it does not, loud when a run fails.<br/>
+<sub>[case study](https://portfolio-five-ruddy-49.vercel.app/projects/n8n-automation) · `n8n` `Make` `Webhooks` `GoHighLevel` `OCR`</sub>
 
 <br/>
 
-## Experience
+## How I build
 
-| | |
-| :-- | :-- |
-| **Full-Stack Developer** · Poseidon Distribution OPC<br/><sub>May 2026 — Present</sub> | Web platforms and region-scoped admin portals for an on-demand delivery and marketplace operation, plus the customer, merchant and rider apps. Real-time GPS tracking on Supabase Realtime, 70+ tables with triggers, RLS and audit logging, automated refunds and merchant settlements. |
-| **Founder & Sole Engineer** · ProfitView<br/><sub>Mar 2026 — Present</sub> | My own product, end to end: 24 modules, the compliance layer, the AI agent layer, 92 Vitest and Playwright suites in CI, and 460+ commits across four repositories in six months. |
-| **Freelance Software Engineer** · Independent<br/><sub>2024 — 2026</sub> | Civic tech for senior citizen affairs, an AI fitness PWA, a multi-provider AI chatbot, and automation systems for client operations. |
+<div align="center">
+
+<img height="34" src="https://cdn.simpleicons.org/claude/D4AF37" alt="Claude" />&nbsp;&nbsp;&nbsp;
+<img height="34" src="https://cdn.simpleicons.org/googlegemini/D4AF37" alt="Gemini" />&nbsp;&nbsp;&nbsp;
+<img height="34" src="https://cdn.simpleicons.org/nextdotjs/D4AF37" alt="Next.js" />&nbsp;&nbsp;&nbsp;
+<img height="34" src="https://cdn.simpleicons.org/typescript/D4AF37" alt="TypeScript" />&nbsp;&nbsp;&nbsp;
+<img height="34" src="https://cdn.simpleicons.org/react/D4AF37" alt="React" />&nbsp;&nbsp;&nbsp;
+<img height="34" src="https://cdn.simpleicons.org/expo/D4AF37" alt="Expo" />&nbsp;&nbsp;&nbsp;
+<img height="34" src="https://cdn.simpleicons.org/supabase/D4AF37" alt="Supabase" />&nbsp;&nbsp;&nbsp;
+<img height="34" src="https://cdn.simpleicons.org/postgresql/D4AF37" alt="PostgreSQL" />&nbsp;&nbsp;&nbsp;
+<img height="34" src="https://cdn.simpleicons.org/tailwindcss/D4AF37" alt="Tailwind CSS" />&nbsp;&nbsp;&nbsp;
+<img height="34" src="https://cdn.simpleicons.org/vercel/D4AF37" alt="Vercel" />&nbsp;&nbsp;&nbsp;
+<img height="34" src="https://cdn.simpleicons.org/githubactions/D4AF37" alt="GitHub Actions" />&nbsp;&nbsp;&nbsp;
+<img height="34" src="https://cdn.simpleicons.org/n8n/D4AF37" alt="n8n" />&nbsp;&nbsp;&nbsp;
+<img height="34" src="https://cdn.simpleicons.org/figma/D4AF37" alt="Figma" />
+
+</div>
 
 <br/>
 
-## Stack
+Started on Gemini's free tier — scaffolding, research, throwaway prototypes. The build itself now runs on **Claude Code**: an agent working inside the repository, writing against the test suite rather than around it. That is what a weekly release cadence costs in practice — **v0.66 after 26 straight weeks**, 460+ commits across four repositories, 24 modules live, and 92 suites that have to pass before any of it ships.
 
-| | |
-| :-- | :-- |
-| **Frontend** | `Next.js` `React` `React Native` `TypeScript` `Tailwind CSS` `Framer Motion` `Radix UI` |
-| **Backend & Infra** | `Supabase` `PostgreSQL` `Row Level Security` `Prisma` `Node.js` `Edge Functions` `Vercel` |
-| **Mobile** | `React Native` `Expo` `Expo Router` `PWA` `Offline-first` |
-| **Payments** | `PayMongo` `GCash` `Maya` `GrabPay` `Stripe` `Subscriptions` |
-| **AI & Automation** | `Anthropic SDK` `OpenAI` `n8n` `Make` `OCR` `Prompt Engineering` |
-| **Testing & Reliability** | `Vitest` `Playwright` `Decimal.js` `Audit Logging` `GitHub Actions` |
+The rest of the toolchain is deliberately cheap: Supabase, Vercel and GitHub Actions all start free, which is the point. A solo engineer should be able to run a production platform on a free tier until real usage justifies paying for it.
+
+<br/>
+
+<details>
+<summary><b>Full stack</b></summary>
+
+<br/>
+
+**Frontend** — `Next.js` `React` `React Native` `TypeScript` `Tailwind CSS` `Framer Motion` `Radix UI`<br/>
+**Backend & infra** — `Supabase` `PostgreSQL` `Row Level Security` `Prisma` `Node.js` `Edge Functions` `Vercel`<br/>
+**Mobile** — `React Native` `Expo` `Expo Router` `PWA` `Offline-first`<br/>
+**Payments** — `PayMongo` `GCash` `Maya` `GrabPay` `Stripe` `Subscriptions`<br/>
+**AI & automation** — `Claude Code` `Anthropic SDK` `OpenAI` `Gemini` `n8n` `Make` `OCR`<br/>
+**Testing & reliability** — `Vitest` `Playwright` `Decimal.js` `Audit logging` `GitHub Actions`
+
+</details>
+
+<details>
+<summary><b>Experience</b></summary>
+
+<br/>
+
+**Full-Stack Developer** · Poseidon Distribution OPC · *May 2026 — present*<br/>
+Web platforms and region-scoped admin portals for an on-demand delivery and marketplace operation, plus the customer, merchant and rider apps. Real-time GPS tracking on Supabase Realtime, 70+ tables with triggers, RLS and audit logging, automated refunds and merchant settlements.
+
+**Founder & Sole Engineer** · ProfitView · *Mar 2026 — present*<br/>
+My own product, end to end: 24 modules, the Philippine compliance layer, the AI agent layer, 92 Vitest and Playwright suites in CI, 460+ commits across four repositories in six months.
+
+**Freelance Software Engineer** · Independent · *2024 — 2026*<br/>
+Civic tech for senior citizen affairs, an AI fitness PWA, a multi-provider AI chatbot, and automation systems for client operations.
+
+</details>
 
 <br/>
 
