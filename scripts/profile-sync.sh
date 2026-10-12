@@ -62,11 +62,11 @@ repo_meta Zebbb01 \
 # Profile bio and company, aligned with the README positioning.
 # Needs the `user` scope: gh auth refresh -s user
 gh api -X PATCH /user \
-  -f bio="Software engineer — production SaaS, mobile apps and business automation. Currently building a BIR-compliant accounting platform." \
+  -f bio="Software engineer, full-stack web and mobile. Building ProfitView (BIR-compliant accounting SaaS) and TamangSahod (AI payroll answers, Python)." \
   -f company="Poseidon Distribution OPC" \
   -f blog="https://portfolio-five-ruddy-49.vercel.app" \
   -f location="Philippines"
 
 echo
 echo "Done. Pins are still manual: github.com/Zebbb01 → Customize your pins →"
-echo "  Portfolio · Workout-Tracker · OSCA · CashFlo · Salary-Management"
+echo "  tamang-sahod · Portfolio · Workout-Tracker · OSCA · CashFlo · Salary-Management"

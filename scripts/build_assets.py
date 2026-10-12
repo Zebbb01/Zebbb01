@@ -26,12 +26,13 @@ ASSETS = Path(__file__).resolve().parent.parent / 'assets'
 TODAY = dt.date.today()
 
 # ── Data: edit here, then re-run ────────────────────────────────────────────
-RELEASE = 'v0.66'
-WEEKS = 26
+RELEASE = 'v0.69'
+RELEASES = 116  # entries in ProfitView's changelog.ts
+WEEKS = 28
 STARTED = dt.date(2026, 3, 29)
-COMMITS = '460+'
-STATS = [('24', 'MODULES LIVE'), ('158K', 'LINES OF TYPESCRIPT'),
-         ('92', 'TEST SUITES IN CI'), (RELEASE, 'WEEKLY RELEASE')]
+COMMITS = '630+'
+STATS = [('24', 'MODULES LIVE'), ('164K', 'LINES OF TYPESCRIPT'),
+         ('106', 'TEST SUITES IN CI'), (RELEASE, 'CURRENT RELEASE')]
 
 TOOLS = [  # name, Simple Icons slug, tier
     ('Claude Code', 'claude', 'paid'),
@@ -283,9 +284,9 @@ def build() -> str:
     bw = slot - 6
     o.append(appear(
         f'<text x="56" y="252" font-family="{SANS}" font-size="26" font-weight="600" fill="{TEXT}">'
-        f'{WEEKS} weeks. {WEEKS} releases.</text>'
+        f'{WEEKS} weeks. {RELEASES} releases.</text>'
         f'<text x="1144" y="252" text-anchor="end" font-family="{MONO}" font-size="11" letter-spacing="3" '
-        f'fill="{TEXT2}">{COMMITS} COMMITS · 0 MISSED WEEKS</text>', .55))
+        f'fill="{TEXT2}">{COMMITS} COMMITS ACROSS 4 REPOS</text>', .55))
     months, prev = '', ''
     for i in range(WEEKS):
         last = i == WEEKS - 1
@@ -322,7 +323,7 @@ def build() -> str:
             + f'<circle cx="{cx:.1f}" cy="586" r="3" fill="{TIER[tier][1]}"/>', 1.1 + i * .06))
 
     label = (f'How I build: started on Gemini (free tier), ships on Claude Code (paid). '
-             f'{WEEKS} weekly releases, {COMMITS} commits. Toolchain: ' + ', '.join(t[0] for t in TOOLS))
+             f'{RELEASES} releases in {WEEKS} weeks, {COMMITS} commits. Toolchain: ' + ', '.join(t[0] for t in TOOLS))
     return card(1200, 616, label, ''.join(o))
 
 
@@ -392,9 +393,9 @@ if __name__ == '__main__':
     work('bodytracker', 'bodytracker-scan.webp', 'AI-POWERED PWA', 'Body Tracker',
          'Snap a meal, get the macros — even offline.', 'NEXT.JS 16 · SUPABASE · INDEXEDDB',
          'LIVE', GREEN, live=True)
-    work('automation', 'automation-n8n.webp', 'WORKFLOW AUTOMATION', 'Business Automation',
-         'CRMs, email and payments wired into one flow.', 'N8N · MAKE · WEBHOOKS · OCR',
-         '−60% MANUAL WORK', GOLD)
+    work('tamangsahod', 'tamangsahod-holiday.webp', 'AI SEARCH · PYTHON', 'TamangSahod',
+         'Payroll answers with the rule behind every peso.', 'FASTAPI · LANCEDB · PYTEST',
+         'PUBLIC REPO', GREEN)
     write('build', build())
     write('experience', experience())
     write('btn-portfolio', button('Portfolio', 'Portfolio &#8599;', True), light=False)
