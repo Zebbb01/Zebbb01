@@ -11,7 +11,7 @@
 </p>
 
 <a href="https://portfolio-five-ruddy-49.vercel.app"><img src="https://raw.githubusercontent.com/Zebbb01/Zebbb01/main/assets/btn-portfolio.svg?v=4" alt="Portfolio" height="44" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/gerald-villaceran-798983325"><img src="https://raw.githubusercontent.com/Zebbb01/Zebbb01/main/assets/btn-linkedin.svg?v=4" alt="LinkedIn" height="44" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/gerald-villaceran/"><img src="https://raw.githubusercontent.com/Zebbb01/Zebbb01/main/assets/btn-linkedin.svg?v=4" alt="LinkedIn" height="44" /></a>&nbsp;
 <a href="mailto:geraldvillaceran01@gmail.com"><img src="https://raw.githubusercontent.com/Zebbb01/Zebbb01/main/assets/btn-hire.svg?v=4" alt="Hire me — email" height="44" /></a>
 
 <p>
