@@ -27,7 +27,7 @@ TODAY = dt.date.today()
 
 # ── Data: edit here, then re-run ────────────────────────────────────────────
 RELEASE = 'v0.69'
-RELEASES = 116  # entries in ProfitView's changelog.ts
+RELEASES = 116  # entries in Trusum's changelog.ts
 WEEKS = 28
 STARTED = dt.date(2026, 3, 29)
 COMMITS = '630+'
@@ -49,7 +49,7 @@ TOOLS = [  # name, Simple Icons slug, tier
 
 ROLES = [  # role, organisation, start, end (None = ongoing)
     ('Freelance Software Engineer', 'Independent', dt.date(2024, 1, 1), dt.date(2026, 5, 1)),
-    ('Founder & Sole Engineer', 'ProfitView', STARTED, None),
+    ('Founder & Sole Engineer', 'Trusum', STARTED, None),
     ('Full-Stack Developer', 'Poseidon Distribution', dt.date(2026, 5, 18), None),
 ]
 
@@ -183,12 +183,12 @@ def write(name: str, svg: str, light: bool = True) -> None:
 
 
 # ── Cards ───────────────────────────────────────────────────────────────────
-def profitview() -> str:
+def trusum() -> str:
     left = [
         appear(pulse(66, 86, GREEN) + f'<text x="82" y="90.5" font-family="{MONO}" font-size="12" '
                f'letter-spacing="5" fill="{TEXT2}">CURRENTLY BUILDING</text>', .05),
         appear(f'<text x="56" y="150" font-family="{SANS}" font-size="38" font-weight="600" letter-spacing="-.3" '
-               f'fill="{TEXT}">ProfitView Accounting</text>', .15),
+               f'fill="{TEXT}">Trusum Accounting</text>', .15),
         appear(f'<text x="56" y="186" font-family="{SANS}" font-size="16.5" fill="{TEXT2}">'
                f'BIR-compliant accounting for Philippine businesses.</text>', .25),
     ]
@@ -216,7 +216,7 @@ def profitview() -> str:
                  f'dur="7s" begin="1.6s" repeatCount="indefinite"/><g filter="url(#shadow)">'
                  f'{shot("profitview-dashboard.webp", 572, 152, 540, 338, "front")}</g></g>', .35, dy=22)
     )
-    label = 'Currently building ProfitView Accounting: ' + ', '.join(f'{v} {k.lower()}' for v, k in STATS)
+    label = 'Currently building Trusum Accounting: ' + ', '.join(f'{v} {k.lower()}' for v, k in STATS)
     return card(1200, 560, label, screens + ''.join(left))
 
 
@@ -389,7 +389,7 @@ def button(label: str, text: str, filled: bool, w: int = 164, h: int = 48) -> st
 
 if __name__ == '__main__':
     write('header', (ASSETS / 'header.svg').read_text(encoding='utf-8'))
-    write('profitview', profitview())
+    write('trusum', trusum())
     work('bodytracker', 'bodytracker-scan.webp', 'AI-POWERED PWA', 'Body Tracker',
          'Snap a meal, get the macros — even offline.', 'NEXT.JS 16 · SUPABASE · INDEXEDDB',
          'LIVE', GREEN, live=True)
