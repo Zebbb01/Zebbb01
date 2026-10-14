@@ -26,8 +26,8 @@ ASSETS = Path(__file__).resolve().parent.parent / 'assets'
 TODAY = dt.date.today()
 
 # ── Data: edit here, then re-run ────────────────────────────────────────────
-RELEASE = 'v0.69'
-RELEASES = 116  # entries in Trusum's changelog.ts
+RELEASE = 'v0.70'
+RELEASES = 121  # entries in Trusum's changelog.ts
 WEEKS = 28
 STARTED = dt.date(2026, 3, 29)
 COMMITS = '630+'
@@ -211,10 +211,10 @@ def trusum() -> str:
 
     screens = (
         f'<ellipse cx="860" cy="290" rx="360" ry="240" fill="url(#glow)"/>'
-        + appear(f'<g opacity=".5">{shot("profitview-slsp.webp", 624, 78, 520, 325, "back")}</g>', .2, dy=-14)
+        + appear(f'<g opacity=".5">{shot("trusum-close.webp", 624, 78, 520, 325, "back")}</g>', .2, dy=-14)
         + appear(f'<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" '
                  f'dur="7s" begin="1.6s" repeatCount="indefinite"/><g filter="url(#shadow)">'
-                 f'{shot("profitview-dashboard.webp", 572, 152, 540, 338, "front")}</g></g>', .35, dy=22)
+                 f'{shot("trusum-dashboard.webp", 572, 152, 540, 338, "front")}</g></g>', .35, dy=22)
     )
     label = 'Currently building Trusum Accounting: ' + ', '.join(f'{v} {k.lower()}' for v, k in STATS)
     return card(1200, 560, label, screens + ''.join(left))

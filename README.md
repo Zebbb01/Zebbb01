@@ -17,9 +17,9 @@
 <p>
 <a href="https://portfolio-five-ruddy-49.vercel.app/projects/trusum">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zebbb01/Zebbb01/main/assets/trusum.svg?v=5" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zebbb01/Zebbb01/main/assets/trusum-light.svg?v=5" />
-  <img src="https://raw.githubusercontent.com/Zebbb01/Zebbb01/main/assets/trusum.svg?v=5" alt="Currently building Trusum Accounting — 24 modules live, 164K lines of TypeScript, 106 test suites in CI, release v0.69" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zebbb01/Zebbb01/main/assets/trusum.svg?v=6" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zebbb01/Zebbb01/main/assets/trusum-light.svg?v=6" />
+  <img src="https://raw.githubusercontent.com/Zebbb01/Zebbb01/main/assets/trusum.svg?v=6" alt="Currently building Trusum Accounting — 24 modules live, 164K lines of TypeScript, 106 test suites in CI, release v0.70" width="100%" />
 </picture>
 </a>
 </p>
@@ -44,9 +44,9 @@
 <p>
 <a href="https://portfolio-five-ruddy-49.vercel.app/#process">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zebbb01/Zebbb01/main/assets/build.svg?v=4" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zebbb01/Zebbb01/main/assets/build-light.svg?v=4" />
-  <img src="https://raw.githubusercontent.com/Zebbb01/Zebbb01/main/assets/build.svg?v=4" alt="How I build — started on Gemini free tier, ships on Claude Code; 116 releases in 28 weeks; toolchain with cost tiers" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zebbb01/Zebbb01/main/assets/build.svg?v=5" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zebbb01/Zebbb01/main/assets/build-light.svg?v=5" />
+  <img src="https://raw.githubusercontent.com/Zebbb01/Zebbb01/main/assets/build.svg?v=5" alt="How I build — started on Gemini free tier, ships on Claude Code; 121 releases in 28 weeks; toolchain with cost tiers" width="100%" />
 </picture>
 </a>
 </p>
