@@ -63,7 +63,7 @@ repo_meta Zebbb01 \
 # Needs the `user` scope: gh auth refresh -s user
 gh api -X PATCH /user \
   -f bio="Software engineer, full-stack web and mobile. Building Trusum (BIR-compliant accounting SaaS) and TamangSahod (AI payroll answers, Python)." \
-  -f company="Poseidon Distribution OPC" \
+  -f company="" \
   -f blog="https://portfolio-five-ruddy-49.vercel.app" \
   -f location="Philippines"
 

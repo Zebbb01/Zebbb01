@@ -54,9 +54,9 @@
 <p>
 <a href="https://portfolio-five-ruddy-49.vercel.app/#experience">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zebbb01/Zebbb01/main/assets/experience.svg?v=4" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zebbb01/Zebbb01/main/assets/experience-light.svg?v=4" />
-  <img src="https://raw.githubusercontent.com/Zebbb01/Zebbb01/main/assets/experience.svg?v=4" alt="Experience timeline — freelance 2024 to 2026, Trusum founder since March 2026, Poseidon Distribution since May 2026" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zebbb01/Zebbb01/main/assets/experience.svg?v=5" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zebbb01/Zebbb01/main/assets/experience-light.svg?v=5" />
+  <img src="https://raw.githubusercontent.com/Zebbb01/Zebbb01/main/assets/experience.svg?v=5" alt="Experience timeline — freelance 2024 to 2026, Trusum founder since March 2026, Poseidon Distribution May to October 2026" width="100%" />
 </picture>
 </a>
 </p>

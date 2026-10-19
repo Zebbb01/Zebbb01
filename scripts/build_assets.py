@@ -50,7 +50,7 @@ TOOLS = [  # name, Simple Icons slug, tier
 ROLES = [  # role, organisation, start, end (None = ongoing)
     ('Freelance Software Engineer', 'Independent', dt.date(2024, 1, 1), dt.date(2026, 5, 1)),
     ('Founder & Sole Engineer', 'Trusum', STARTED, None),
-    ('Full-Stack Developer', 'Poseidon Distribution', dt.date(2026, 5, 18), None),
+    ('Full-Stack Developer', 'Poseidon Distribution', dt.date(2026, 5, 18), dt.date(2026, 10, 16)),
 ]
 
 # ── Palette: the portfolio's tokens, and their light-theme twins ────────────
