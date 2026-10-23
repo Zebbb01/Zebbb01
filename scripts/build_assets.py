@@ -395,7 +395,7 @@ if __name__ == '__main__':
          'LIVE', GREEN, live=True)
     work('tamangsahod', 'tamangsahod-holiday.webp', 'AI SEARCH · PYTHON', 'TamangSahod',
          'Payroll answers with the rule behind every peso.', 'FASTAPI · LANCEDB · PYTEST',
-         'PUBLIC REPO', GREEN)
+         'LIVE', GREEN, live=True)
     write('build', build())
     write('experience', experience())
     write('btn-portfolio', button('Portfolio', 'Portfolio &#8599;', True), light=False)
