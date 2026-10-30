@@ -32,11 +32,11 @@
   <img src="https://raw.githubusercontent.com/Zebbb01/Zebbb01/main/assets/tamangsahod.svg?v=6" alt="TamangSahod — payroll answers with the rule behind every peso; Python, FastAPI and LanceDB hybrid search" width="49%" />
 </picture>
 </a>
-<a href="https://portfolio-five-ruddy-49.vercel.app/projects/body-tracker">
+<a href="https://portfolio-five-ruddy-49.vercel.app/projects/watershed-extractor">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zebbb01/Zebbb01/main/assets/bodytracker.svg?v=4" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zebbb01/Zebbb01/main/assets/bodytracker-light.svg?v=4" />
-  <img src="https://raw.githubusercontent.com/Zebbb01/Zebbb01/main/assets/bodytracker.svg?v=4" alt="Body Tracker — AI meal analysis from photos, offline-first PWA" width="49%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zebbb01/Zebbb01/main/assets/watershed.svg?v=1" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zebbb01/Zebbb01/main/assets/watershed-light.svg?v=1" />
+  <img src="https://raw.githubusercontent.com/Zebbb01/Zebbb01/main/assets/watershed.svg?v=1" alt="Watershed Plan Extractor — reads a watershed plan PDF and returns verified, cited data; Next.js, Claude, pdf.js and Zod" width="49%" />
 </picture>
 </a>
 </p>
