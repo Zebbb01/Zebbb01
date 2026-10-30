@@ -390,8 +390,8 @@ def button(label: str, text: str, filled: bool, w: int = 164, h: int = 48) -> st
 if __name__ == '__main__':
     write('header', (ASSETS / 'header.svg').read_text(encoding='utf-8'))
     write('trusum', trusum())
-    work('bodytracker', 'bodytracker-scan.webp', 'AI-POWERED PWA', 'Body Tracker',
-         'Snap a meal, get the macros — even offline.', 'NEXT.JS 16 · SUPABASE · INDEXEDDB',
+    work('watershed', 'watershed-overview.webp', 'AI DOCUMENT EXTRACTION', 'Watershed Plan Extractor',
+         'PDF in, verified data out, every item cited.', 'NEXT.JS · CLAUDE · PDF.JS · ZOD',
          'LIVE', GREEN, live=True)
     work('tamangsahod', 'tamangsahod-holiday.webp', 'AI SEARCH · PYTHON', 'TamangSahod',
          'Payroll answers with the rule behind every peso.', 'FASTAPI · LANCEDB · PYTEST',
